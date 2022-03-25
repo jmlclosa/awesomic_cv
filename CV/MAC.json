@@ -315,6 +315,10 @@
                 "type": "technology"
               },
               {
+                "name": "ELK",
+                "type": "technology"
+              },
+              {
                 "name": "Bitbucket",
                 "type": "technology"
               },
