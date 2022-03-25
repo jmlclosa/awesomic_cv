@@ -354,6 +354,60 @@
           }
         ]
       }
+    ],
+    "projects": [
+      {
+        "details": {
+          "name": "Antojo en tu cocina Wordpress Site",
+          "description": "Maintaining my wife's blog in Wordpress \n\nI conviced her to migrate his Blogger blog to Wordpress. I did a script to migrate all recipes and then develop a theme and some plugins.\n\nI use best practices for developing Wordpress using own theme and own plugins with hooks to extend core and third-party plugins functionality.\n\nI apply some learned skills in CSS (BEM, SASS, ...), docker to recreate development environment as required, Git to maintaing historical changes, Trello to keep tasks progress and history, ...\n\nI monitor end-user performance using GTMetrix and Google Core Web Vitals and try to be at best grade :)",
+          "URL": "https://www.antojoentucocina.com/"
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2010-01-01",
+            "competences": [
+              {
+                "name": "PHP",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "Docker",
+                "type": "technology"
+              },
+              {
+                "name": "Google Analytics",
+                "type": "technology"
+              },
+              {
+                "name": "WordPress",
+                "type": "technology"
+              },
+              {
+                "name": "Git",
+                "type": "technology"
+              },
+              {
+                "name": "Trello",
+                "type": "technology"
+              },
+              {
+                "name": "Sass",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
     ]
   },
   "knowledge": {
