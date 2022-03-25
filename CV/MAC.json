@@ -390,6 +390,17 @@
           "name": "Cambridge ESOL",
           "description": ""
         }
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Quarkus",
+        "startDate": "2019-06-01",
+        "finishDate": "2019-06-01",
+        "institution": {
+          "name": "Alex Soto via OpenWebinars",
+          "description": "Aprender a usar Quarkus para poder realizar aplicaciones Java Cloud-Native, preparadas para funcionar dentro de contenedores y preparadas para funcionar tanto dentro de arquitecturas microservicios como en serverless."
+        }
       }
     ]
   },
