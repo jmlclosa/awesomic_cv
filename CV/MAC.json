@@ -72,66 +72,6 @@
       },
       {
         "organization": {
-          "name": "SM2 Baleares",
-          "URL": ""
-        },
-        "roles": [
-          {
-            "name": "Java Programmer",
-            "startDate": "2009-07-01",
-            "finishDate": "2011-02-01",
-            "challenges": [
-              {
-                "description": "Maintenance and new features of applications for Balearic Island Government using J2EE over Jboss.\nDeveloping some websites using Liferay CE like aforavila.com\nAlso starting development of Talaia OpenPPM product"
-              }
-            ],
-            "competences": [
-              {
-                "name": "JAVA",
-                "type": "technology"
-              },
-              {
-                "name": "JavaScript",
-                "type": "technology"
-              },
-              {
-                "name": "HTML",
-                "type": "technology"
-              },
-              {
-                "name": "CSS",
-                "type": "technology"
-              },
-              {
-                "name": "JBoss",
-                "type": "technology"
-              },
-              {
-                "name": "jQuery",
-                "type": "technology"
-              },
-              {
-                "name": "Tomcat",
-                "type": "technology"
-              },
-              {
-                "name": "J2EE",
-                "type": "technology"
-              },
-              {
-                "name": "LifeRay",
-                "type": "technology"
-              },
-              {
-                "name": "ChartJS",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
           "name": "Brujula Tecnologías de la Información"
         },
         "roles": [
@@ -187,6 +127,66 @@
               },
               {
                 "name": "LifeRay",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "SM2 Baleares",
+          "URL": ""
+        },
+        "roles": [
+          {
+            "name": "Java Programmer",
+            "startDate": "2009-07-01",
+            "finishDate": "2011-02-01",
+            "challenges": [
+              {
+                "description": "Maintenance and new features of applications for Balearic Island Government using J2EE over Jboss.\n\nDeveloping some websites using Liferay CE like aforavila.com\n\nAlso starting development of Talaia OpenPPM product"
+              }
+            ],
+            "competences": [
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "JBoss",
+                "type": "technology"
+              },
+              {
+                "name": "jQuery",
+                "type": "technology"
+              },
+              {
+                "name": "Tomcat",
+                "type": "technology"
+              },
+              {
+                "name": "J2EE",
+                "type": "technology"
+              },
+              {
+                "name": "LifeRay",
+                "type": "technology"
+              },
+              {
+                "name": "ChartJS",
                 "type": "technology"
               }
             ]
