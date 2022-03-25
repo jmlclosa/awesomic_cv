@@ -368,6 +368,17 @@
           "name": "Universitat de les Illes Balears",
           "description": "Ingeniería Técnica en Informática de Gestión"
         }
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Computer Engineering",
+        "startDate": "2010-09-01",
+        "finishDate": "2010-09-01",
+        "institution": {
+          "name": "Universitat Oberta de Catalunya (UOC)",
+          "description": "Ingeniería informática\n\nHonorable mention in Final Project: Development of framework for the presentation layer in J2EE applications"
+        }
       }
     ]
   },
