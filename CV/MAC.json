@@ -1,0 +1,283 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Juan Manuel",
+      "surnames": "López Closa",
+      "title": "",
+      "description": "He mejorado el departamento de desarrollo de la empresa para la que llevo trabajando 11 años, pasando de procesos con apenas buenas prácticas a implementar la mayoría de éstas (clean code, DDD,  CI & CD, testing, eventos, microservicios, ...) con una formación activa tanto personal como del resto del equipo e investigando nuevas tecnologías para ir aplicando tanto en nuevos proyectos como los mantenidos.\nEmpecé como el único programador y ahora soy el responsable del equipo (7 internos) y de los proyectos que se externalizan. Mantengo reuniones periódicas con negocio, con el responsable de Sistemas/Operaciones y con el Jefe del departamento IT para ir revisando la priorización y planificación de los distintos proyectos que llevamos.\nQuiero seguir creciendo con nuevos retos, conocer más puntos de vista y seguir pasándolo bien en mi trabajo. \nAdemás de mi trabajo principal mantengo el blog de mi mujer, hecho en Wordpress y siguiendo todas las buenas prácticas que se pueden aplicar (child-themes, hooks, desarrollos personalizados en plugins, ...) y aplicando lo que voy aprendiendo de CSS y JS \"moderno\".",
+      "avatar": {
+        "alt": "foto_perfil_2.jpg",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/6cf73407-0d08-45f3-ace6-02fab5d9e98f_foto_perfil_2.jpg"
+      },
+      "location": {
+        "notes": "Mallorca"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/juanmalopez/"
+      },
+      {
+        "type": "twitter",
+        "URL": "https://twitter.com/jml_closa"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "SM2 Baleares"
+        },
+        "roles": [
+          {
+            "name": "Jr Java Programer ",
+            "startDate": "2008-07-01",
+            "finishDate": "2006-09-01",
+            "challenges": [
+              {
+                "description": "Maintenance of applications for Balearic Island Government using J2EE and Jboss"
+              }
+            ],
+            "competences": [
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "JBoss",
+                "type": "technology"
+              },
+              {
+                "name": "J2EE",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "SM2 Baleares",
+          "URL": ""
+        },
+        "roles": [
+          {
+            "name": "Java Programmer",
+            "startDate": "2009-07-01",
+            "finishDate": "2011-02-01",
+            "challenges": [
+              {
+                "description": "Maintenance and new features of applications for Balearic Island Government using J2EE over Jboss.\nDeveloping some websites using Liferay CE like aforavila.com\nAlso starting development of Talaia OpenPPM product"
+              }
+            ],
+            "competences": [
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "JBoss",
+                "type": "technology"
+              },
+              {
+                "name": "jQuery",
+                "type": "technology"
+              },
+              {
+                "name": "Tomcat",
+                "type": "technology"
+              },
+              {
+                "name": "J2EE",
+                "type": "technology"
+              },
+              {
+                "name": "LifeRay",
+                "type": "technology"
+              },
+              {
+                "name": "ChartJS",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Brujula Tecnologías de la Información"
+        },
+        "roles": [
+          {
+            "name": "Sr Java Programmer",
+            "startDate": "2011-03-01",
+            "finishDate": "2018-03-01",
+            "challenges": [
+              {
+                "description": "Working for Consorci de Transports as Java programmer, doing analysis, development, production and maintenance tasks.\nDevelopment of tib.org website using Liferay CE over Jboss and Tomcat\nDevelopment of internal applications for managing and monitor business tasks using Java EE over JBoss\nIncreasing IT value by implementing best practices and tools like Git, Clean Code, Jenkins, Sonarqube, REST APIs, Kanban, Jira, Confluence, ...\nAlso helping to monitor external developments."
+              }
+            ],
+            "competences": [
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "Jenkins",
+                "type": "technology"
+              },
+              {
+                "name": "JBoss",
+                "type": "technology"
+              },
+              {
+                "name": "Jira",
+                "type": "technology"
+              },
+              {
+                "name": "Git",
+                "type": "technology"
+              },
+              {
+                "name": "REST",
+                "type": "technology"
+              },
+              {
+                "name": "Confluence",
+                "type": "technology"
+              },
+              {
+                "name": "SonarQube",
+                "type": "technology"
+              },
+              {
+                "name": "Tomcat",
+                "type": "technology"
+              },
+              {
+                "name": "J2EE",
+                "type": "technology"
+              },
+              {
+                "name": "LifeRay",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Brujula Tecnologías de la Información"
+        },
+        "roles": [
+          {
+            "name": "Java Architect",
+            "startDate": "2018-03-01",
+            "finishDate": "2020-04-01",
+            "challenges": [
+              {
+                "description": "Software manager for IT department in Consorci de Transports de Mallorca (CTM)\nDeveloping new Integrated Fare System (STI-R4) that will be start on ~2019~ 2021 at same time starts new public transport concessions.\nThis project was prized at \"XIX Congreso español sobre sistemas inteligentes de transporte\" organized by ITS España association.\nI help business people to define IT requirements and features and then managed internal and external teams to develop this project. I also plan and update the roadmap together with the head of IT and business department.\nWe refactored or redo several internal applications to accomplish new STI features and updated tech stack using some technologies like Java 11, Java EE8, Quarkus, Microprofile.io, Docker and Docker Compose, ... We migrated application server Jboss to Wildfly 8/10.\nThe major of that applications uses JSF (Primefaces) at frontend and expose REST APIs documented with Swagger/OpenAPI. These APIs are used by our applications and transport companies IT systems. All of that securized using Keycloak and OAuth.\nWe also developed embedded software for bus onboard machines and train stations machines. We assumed this development instead of use external software to reduce costs and times. Those projects uses technologies like JavaFX/OpenJFX, Java 11, REST APIs for backend communication and gRPC for inter-device communication.\nFor managing day-to-day we choosed agile methodologies like SCRUM and Kanban and implemented CI/CD"
+              }
+            ],
+            "competences": [
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "Docker",
+                "type": "technology"
+              },
+              {
+                "name": "JBoss",
+                "type": "technology"
+              },
+              {
+                "name": "Jira",
+                "type": "technology"
+              },
+              {
+                "name": "REST",
+                "type": "technology"
+              },
+              {
+                "name": "Confluence",
+                "type": "technology"
+              },
+              {
+                "name": "Bitbucket",
+                "type": "technology"
+              },
+              {
+                "name": "Quarkus",
+                "type": "technology"
+              },
+              {
+                "name": "Primefaces",
+                "type": "technology"
+              },
+              {
+                "name": "JSF",
+                "type": "technology"
+              },
+              {
+                "name": "J2EE",
+                "type": "technology"
+              },
+              {
+                "name": "OpenApi",
+                "type": "technology"
+              },
+              {
+                "name": "JavaFX",
+                "type": "technology"
+              },
+              {
+                "name": "Keycloak",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/juanmalopez/"
+        }
+      ]
+    }
+  }
+}
