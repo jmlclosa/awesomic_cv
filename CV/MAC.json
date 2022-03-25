@@ -267,6 +267,92 @@
             ]
           }
         ]
+      },
+      {
+        "organization": {
+          "name": "Plexus Tech"
+        },
+        "roles": [
+          {
+            "name": "Java Architect",
+            "startDate": "2020-04-01",
+            "challenges": [
+              {
+                "description": "I continue with similar role as previous experience (see above)\n\nWe are evolving all systems done for new Public Transport Fare System for Balearic Islands. My priority is stabilizing and updating them at the same time provide new features.\n\nWe are continuously training with best practices of clean code, DDD, Event-Driven Architecture and applying them to projects (legacy and latest ones)\n"
+              }
+            ],
+            "competences": [
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "Jenkins",
+                "type": "technology"
+              },
+              {
+                "name": "Docker",
+                "type": "technology"
+              },
+              {
+                "name": "RabbitMQ",
+                "type": "technology"
+              },
+              {
+                "name": "JBoss",
+                "type": "technology"
+              },
+              {
+                "name": "Jira",
+                "type": "technology"
+              },
+              {
+                "name": "REST",
+                "type": "technology"
+              },
+              {
+                "name": "Confluence",
+                "type": "technology"
+              },
+              {
+                "name": "Bitbucket",
+                "type": "technology"
+              },
+              {
+                "name": "Quarkus",
+                "type": "technology"
+              },
+              {
+                "name": "Primefaces",
+                "type": "technology"
+              },
+              {
+                "name": "JSF",
+                "type": "technology"
+              },
+              {
+                "name": "J2EE",
+                "type": "technology"
+              },
+              {
+                "name": "OpenApi",
+                "type": "technology"
+              },
+              {
+                "name": "JavaFX",
+                "type": "technology"
+              },
+              {
+                "name": "Flyway",
+                "type": "technology"
+              },
+              {
+                "name": "Keycloak",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
