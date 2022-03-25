@@ -356,6 +356,21 @@
       }
     ]
   },
+  "knowledge": {
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Technical Computer Engineering",
+        "startDate": "2004-09-01",
+        "finishDate": "2010-09-01",
+        "institution": {
+          "name": "Universitat de les Illes Balears",
+          "description": "Ingeniería Técnica en Informática de Gestión"
+        }
+      }
+    ]
+  },
   "careerPreferences": {
     "contact": {
       "publicProfiles": [
