@@ -379,6 +379,17 @@
           "name": "Universitat Oberta de Catalunya (UOC)",
           "description": "Ingeniería informática\n\nHonorable mention in Final Project: Development of framework for the presentation layer in J2EE applications"
         }
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Preliminary English Test (PET) - B1",
+        "startDate": "2013-07-01",
+        "finishDate": "2013-07-01",
+        "institution": {
+          "name": "Cambridge ESOL",
+          "description": ""
+        }
       }
     ]
   },
