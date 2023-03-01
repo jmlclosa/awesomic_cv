@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "EN",
+    "language": "ES",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -9,23 +9,26 @@
       "name": "Juan Manuel",
       "surnames": "López Closa",
       "title": "",
-      "description": "He mejorado el departamento de desarrollo de la empresa para la que llevo trabajando 11 años, pasando de procesos con apenas buenas prácticas a implementar la mayoría de éstas (clean code, DDD,  CI & CD, testing, eventos, microservicios, ...) con una formación activa tanto personal como del resto del equipo e investigando nuevas tecnologías para ir aplicando tanto en nuevos proyectos como los mantenidos.\n\nEmpecé como el único programador y ahora soy el responsable del equipo (7 internos) y de los proyectos que se externalizan. Mantengo reuniones periódicas con negocio, con el responsable de Sistemas/Operaciones y con el Jefe del departamento IT para ir revisando la priorización y planificación de los distintos proyectos que llevamos.\n\nQuiero seguir creciendo con nuevos retos, conocer más puntos de vista y seguir pasándolo bien en mi trabajo. \n\nAdemás de mi trabajo principal mantengo el blog de mi mujer, hecho en Wordpress y siguiendo todas las buenas prácticas que se pueden aplicar (child-themes, hooks, desarrollos personalizados en plugins, ...) y aplicando lo que voy aprendiendo de CSS y JS \"moderno\".",
+      "description": "",
       "avatar": {
         "alt": "foto_perfil_2.jpg",
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/6cf73407-0d08-45f3-ace6-02fab5d9e98f_foto_perfil_2.jpg"
       },
       "location": {
-        "notes": "Mallorca"
+        "country": "España",
+        "region": "Islas Baleares",
+        "municipality": "Palma",
+        "notes": "Autocompleted using Google Maps API"
       }
     },
     "relevantLinks": [
       {
-        "type": "linkedin",
-        "URL": "https://www.linkedin.com/in/juanmalopez/"
-      },
-      {
         "type": "twitter",
         "URL": "https://twitter.com/jml_closa"
+      },
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/juanmalopez/"
       }
     ]
   },
@@ -33,29 +36,44 @@
     "jobs": [
       {
         "organization": {
-          "name": "SM2 Baleares"
+          "name": "Plexus Tech"
         },
         "roles": [
           {
-            "name": "Jr Java Programer ",
-            "startDate": "2008-07-01",
-            "finishDate": "2006-09-01",
+            "name": "Java Architect",
+            "startDate": "2020-04-01",
             "challenges": [
               {
-                "description": "Maintenance of applications for Balearic Island Government using J2EE and Jboss"
+                "description": "I continue with similar role as previous experience (see below)\n\nWe are evolving all systems done for new Public Transport Fare System for Balearic Islands. My priority is stabilizing and updating them at the same time provide new features.\n\nWe are continuously training with best practices of clean code, DDD, Event-Driven Architecture and applying them to projects (legacy and latest ones)\n"
               }
             ],
             "competences": [
               {
+                "name": "Bitbucket",
+                "type": "technology"
+              },
+              {
+                "name": "Confluence",
+                "type": "technology"
+              },
+              {
+                "name": "Docker",
+                "type": "technology"
+              },
+              {
+                "name": "ELK",
+                "type": "technology"
+              },
+              {
+                "name": "Flyway",
+                "type": "technology"
+              },
+              {
+                "name": "J2EE",
+                "type": "technology"
+              },
+              {
                 "name": "JAVA",
-                "type": "technology"
-              },
-              {
-                "name": "HTML",
-                "type": "technology"
-              },
-              {
-                "name": "CSS",
                 "type": "technology"
               },
               {
@@ -63,7 +81,122 @@
                 "type": "technology"
               },
               {
+                "name": "JSF",
+                "type": "technology"
+              },
+              {
+                "name": "JavaFX",
+                "type": "technology"
+              },
+              {
+                "name": "Jenkins",
+                "type": "technology"
+              },
+              {
+                "name": "Jira",
+                "type": "technology"
+              },
+              {
+                "name": "Keycloak",
+                "type": "technology"
+              },
+              {
+                "name": "Kong",
+                "type": "technology"
+              },
+              {
+                "name": "OpenApi",
+                "type": "technology"
+              },
+              {
+                "name": "Primefaces",
+                "type": "technology"
+              },
+              {
+                "name": "Quarkus",
+                "type": "technology"
+              },
+              {
+                "name": "REST",
+                "type": "technology"
+              },
+              {
+                "name": "RabbitMQ",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Brujula Tecnologías de la Información"
+        },
+        "roles": [
+          {
+            "name": "Java Architect",
+            "startDate": "2018-03-01",
+            "finishDate": "2020-04-01",
+            "challenges": [
+              {
+                "description": "Software architect/manager for IT department in Consorci de Transports de Mallorca (CTM)\nDeveloping new Integrated Fare System (STI-R4) that will be start on ~2019~ 2021 at same time starts new public transport concessions.\n\nThis project was prized at \"XIX Congreso español sobre sistemas inteligentes de transporte\" organized by ITS España association.\n\nI help business people to define IT requirements and features and then managed internal and external teams to develop this project. I also plan and update the roadmap together with the head of IT and business department.\n\nWe refactored or redo several internal applications to accomplish new STI features and updated tech stack using some technologies like Java 11, Java EE8, Quarkus, Microprofile.io, Docker and Docker Compose, ... We migrated application server Jboss to Wildfly 8/10.\n\nThe major of that applications uses JSF (Primefaces) at frontend and expose REST APIs documented with Swagger/OpenAPI. These APIs are used by our applications and transport companies IT systems. All of that securized using Keycloak and OAuth.\n\nWe also developed embedded software for bus onboard machines and train stations machines. We assumed this development instead of use external software to reduce costs and times. Those projects uses technologies like JavaFX/OpenJFX, Java 11, REST APIs for backend communication and gRPC for inter-device communication.\n\nFor managing day-to-day we choosed agile methodologies like SCRUM and Kanban and implemented CI/CD"
+              }
+            ],
+            "competences": [
+              {
+                "name": "Bitbucket",
+                "type": "technology"
+              },
+              {
+                "name": "Confluence",
+                "type": "technology"
+              },
+              {
+                "name": "Docker",
+                "type": "technology"
+              },
+              {
                 "name": "J2EE",
+                "type": "technology"
+              },
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "JBoss",
+                "type": "technology"
+              },
+              {
+                "name": "JSF",
+                "type": "technology"
+              },
+              {
+                "name": "JavaFX",
+                "type": "technology"
+              },
+              {
+                "name": "Jira",
+                "type": "technology"
+              },
+              {
+                "name": "Keycloak",
+                "type": "technology"
+              },
+              {
+                "name": "OpenApi",
+                "type": "technology"
+              },
+              {
+                "name": "Primefaces",
+                "type": "technology"
+              },
+              {
+                "name": "Quarkus",
+                "type": "technology"
+              },
+              {
+                "name": "REST",
                 "type": "technology"
               }
             ]
@@ -86,27 +219,7 @@
             ],
             "competences": [
               {
-                "name": "JAVA",
-                "type": "technology"
-              },
-              {
-                "name": "Jenkins",
-                "type": "technology"
-              },
-              {
-                "name": "JBoss",
-                "type": "technology"
-              },
-              {
-                "name": "Jira",
-                "type": "technology"
-              },
-              {
-                "name": "Git",
-                "type": "technology"
-              },
-              {
-                "name": "REST",
+                "name": "Apache Tomcat",
                 "type": "technology"
               },
               {
@@ -114,11 +227,7 @@
                 "type": "technology"
               },
               {
-                "name": "SonarQube",
-                "type": "technology"
-              },
-              {
-                "name": "Tomcat",
+                "name": "Git",
                 "type": "technology"
               },
               {
@@ -126,7 +235,31 @@
                 "type": "technology"
               },
               {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "JBoss",
+                "type": "technology"
+              },
+              {
+                "name": "Jenkins",
+                "type": "technology"
+              },
+              {
+                "name": "Jira",
+                "type": "technology"
+              },
+              {
                 "name": "LifeRay",
+                "type": "technology"
+              },
+              {
+                "name": "REST",
+                "type": "technology"
+              },
+              {
+                "name": "SonarQube",
                 "type": "technology"
               }
             ]
@@ -150,15 +283,7 @@
             ],
             "competences": [
               {
-                "name": "JAVA",
-                "type": "technology"
-              },
-              {
-                "name": "JavaScript",
-                "type": "technology"
-              },
-              {
-                "name": "HTML",
+                "name": "Apache Tomcat",
                 "type": "technology"
               },
               {
@@ -166,19 +291,27 @@
                 "type": "technology"
               },
               {
-                "name": "JBoss",
+                "name": "ChartJS",
                 "type": "technology"
               },
               {
-                "name": "jQuery",
-                "type": "technology"
-              },
-              {
-                "name": "Tomcat",
+                "name": "HTML",
                 "type": "technology"
               },
               {
                 "name": "J2EE",
+                "type": "technology"
+              },
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "JBoss",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
                 "type": "technology"
               },
               {
@@ -186,7 +319,7 @@
                 "type": "technology"
               },
               {
-                "name": "ChartJS",
+                "name": "jQuery",
                 "type": "technology"
               }
             ]
@@ -195,57 +328,25 @@
       },
       {
         "organization": {
-          "name": "Brujula Tecnologías de la Información"
+          "name": "SM2 Baleares"
         },
         "roles": [
           {
-            "name": "Java Architect",
-            "startDate": "2018-03-01",
-            "finishDate": "2020-04-01",
+            "name": "Jr Java Programer ",
+            "startDate": "2008-07-01",
+            "finishDate": "2006-09-01",
             "challenges": [
               {
-                "description": "Software architect/manager for IT department in Consorci de Transports de Mallorca (CTM)\nDeveloping new Integrated Fare System (STI-R4) that will be start on ~2019~ 2021 at same time starts new public transport concessions.\n\nThis project was prized at \"XIX Congreso español sobre sistemas inteligentes de transporte\" organized by ITS España association.\n\nI help business people to define IT requirements and features and then managed internal and external teams to develop this project. I also plan and update the roadmap together with the head of IT and business department.\n\nWe refactored or redo several internal applications to accomplish new STI features and updated tech stack using some technologies like Java 11, Java EE8, Quarkus, Microprofile.io, Docker and Docker Compose, ... We migrated application server Jboss to Wildfly 8/10.\n\nThe major of that applications uses JSF (Primefaces) at frontend and expose REST APIs documented with Swagger/OpenAPI. These APIs are used by our applications and transport companies IT systems. All of that securized using Keycloak and OAuth.\n\nWe also developed embedded software for bus onboard machines and train stations machines. We assumed this development instead of use external software to reduce costs and times. Those projects uses technologies like JavaFX/OpenJFX, Java 11, REST APIs for backend communication and gRPC for inter-device communication.\n\nFor managing day-to-day we choosed agile methodologies like SCRUM and Kanban and implemented CI/CD"
+                "description": "Maintenance of applications for Balearic Island Government using J2EE and Jboss"
               }
             ],
             "competences": [
               {
-                "name": "JAVA",
+                "name": "CSS",
                 "type": "technology"
               },
               {
-                "name": "Docker",
-                "type": "technology"
-              },
-              {
-                "name": "JBoss",
-                "type": "technology"
-              },
-              {
-                "name": "Jira",
-                "type": "technology"
-              },
-              {
-                "name": "REST",
-                "type": "technology"
-              },
-              {
-                "name": "Confluence",
-                "type": "technology"
-              },
-              {
-                "name": "Bitbucket",
-                "type": "technology"
-              },
-              {
-                "name": "Quarkus",
-                "type": "technology"
-              },
-              {
-                "name": "Primefaces",
-                "type": "technology"
-              },
-              {
-                "name": "JSF",
+                "name": "HTML",
                 "type": "technology"
               },
               {
@@ -253,109 +354,11 @@
                 "type": "technology"
               },
               {
-                "name": "OpenApi",
-                "type": "technology"
-              },
-              {
-                "name": "JavaFX",
-                "type": "technology"
-              },
-              {
-                "name": "Keycloak",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Plexus Tech"
-        },
-        "roles": [
-          {
-            "name": "Java Architect",
-            "startDate": "2020-04-01",
-            "challenges": [
-              {
-                "description": "I continue with similar role as previous experience (see below)\n\nWe are evolving all systems done for new Public Transport Fare System for Balearic Islands. My priority is stabilizing and updating them at the same time provide new features.\n\nWe are continuously training with best practices of clean code, DDD, Event-Driven Architecture and applying them to projects (legacy and latest ones)\n"
-              }
-            ],
-            "competences": [
-              {
                 "name": "JAVA",
                 "type": "technology"
               },
               {
-                "name": "Jenkins",
-                "type": "technology"
-              },
-              {
-                "name": "Docker",
-                "type": "technology"
-              },
-              {
-                "name": "RabbitMQ",
-                "type": "technology"
-              },
-              {
                 "name": "JBoss",
-                "type": "technology"
-              },
-              {
-                "name": "Jira",
-                "type": "technology"
-              },
-              {
-                "name": "REST",
-                "type": "technology"
-              },
-              {
-                "name": "Confluence",
-                "type": "technology"
-              },
-              {
-                "name": "ELK",
-                "type": "technology"
-              },
-              {
-                "name": "Bitbucket",
-                "type": "technology"
-              },
-              {
-                "name": "Quarkus",
-                "type": "technology"
-              },
-              {
-                "name": "Primefaces",
-                "type": "technology"
-              },
-              {
-                "name": "JSF",
-                "type": "technology"
-              },
-              {
-                "name": "J2EE",
-                "type": "technology"
-              },
-              {
-                "name": "OpenApi",
-                "type": "technology"
-              },
-              {
-                "name": "JavaFX",
-                "type": "technology"
-              },
-              {
-                "name": "Flyway",
-                "type": "technology"
-              },
-              {
-                "name": "Kong",
-                "type": "technology"
-              },
-              {
-                "name": "Keycloak",
                 "type": "technology"
               }
             ]
@@ -377,14 +380,6 @@
             "startDate": "2010-01-01",
             "competences": [
               {
-                "name": "PHP",
-                "type": "technology"
-              },
-              {
-                "name": "HTML",
-                "type": "technology"
-              },
-              {
                 "name": "CSS",
                 "type": "technology"
               },
@@ -393,15 +388,23 @@
                 "type": "technology"
               },
               {
+                "name": "Git",
+                "type": "technology"
+              },
+              {
                 "name": "Google Analytics",
                 "type": "technology"
               },
               {
-                "name": "WordPress",
+                "name": "HTML",
                 "type": "technology"
               },
               {
-                "name": "Git",
+                "name": "PHP",
+                "type": "technology"
+              },
+              {
+                "name": "Sass",
                 "type": "technology"
               },
               {
@@ -409,7 +412,7 @@
                 "type": "technology"
               },
               {
-                "name": "Sass",
+                "name": "WordPress",
                 "type": "technology"
               }
             ]
@@ -419,27 +422,100 @@
     ]
   },
   "knowledge": {
-    "studies": [
+    "languages": [
       {
-        "studyType": "officialDegree",
-        "degreeAchieved": true,
-        "name": "Technical Computer Engineering",
-        "startDate": "2004-09-01",
-        "finishDate": "2010-09-01",
-        "institution": {
-          "name": "Universitat de les Illes Balears",
-          "description": "Ingeniería Técnica en Informática de Gestión"
+        "name": "Catalan",
+        "level": "Limited working proficiency"
+      },
+      {
+        "name": "Spanish",
+        "level": "Limited working proficiency"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "JAVA",
+          "type": "technology"
         }
       },
       {
-        "studyType": "officialDegree",
+        "skill": {
+          "name": "Quarkus",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Primefaces",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "REST",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Keycloak",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Jenkins",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Bitbucket",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Jira",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Confluence",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JSF",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "OpenApi",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaFX",
+          "type": "technology"
+        }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "unaccredited",
         "degreeAchieved": true,
-        "name": "Computer Engineering",
-        "startDate": "2010-09-01",
-        "finishDate": "2010-09-01",
+        "name": "Quarkus",
+        "startDate": "2019-06-01",
+        "finishDate": "2019-06-01",
         "institution": {
-          "name": "Universitat Oberta de Catalunya (UOC)",
-          "description": "Ingeniería informática\n\nHonorable mention in Final Project: Development of framework for the presentation layer in J2EE applications"
+          "name": "Alex Soto via OpenWebinars",
+          "description": "Aprender a usar Quarkus para poder realizar aplicaciones Java Cloud-Native, preparadas para funcionar dentro de contenedores y preparadas para funcionar tanto dentro de arquitecturas microservicios como en serverless."
         }
       },
       {
@@ -454,14 +530,25 @@
         }
       },
       {
-        "studyType": "unaccredited",
+        "studyType": "officialDegree",
         "degreeAchieved": true,
-        "name": "Quarkus",
-        "startDate": "2019-06-01",
-        "finishDate": "2019-06-01",
+        "name": "Computer Engineering",
+        "startDate": "2010-09-01",
+        "finishDate": "2010-09-01",
         "institution": {
-          "name": "Alex Soto via OpenWebinars",
-          "description": "Aprender a usar Quarkus para poder realizar aplicaciones Java Cloud-Native, preparadas para funcionar dentro de contenedores y preparadas para funcionar tanto dentro de arquitecturas microservicios como en serverless."
+          "name": "Universitat Oberta de Catalunya (UOC)",
+          "description": "Ingeniería informática\n\nHonorable mention in Final Project: Development of framework for the presentation layer in J2EE applications"
+        }
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Technical Computer Engineering",
+        "startDate": "2004-09-01",
+        "finishDate": "2010-09-01",
+        "institution": {
+          "name": "Universitat de les Illes Balears",
+          "description": "Ingeniería Técnica en Informática de Gestión"
         }
       }
     ]
@@ -474,6 +561,16 @@
           "URL": "https://www.linkedin.com/in/juanmalopez/"
         }
       ]
-    }
+    },
+    "preferences": {
+      "preferredRoles": [
+        "Backend Developer",
+        "Full-stack Developer",
+        "Product Owner",
+        "Software Architect",
+        "Tech Lead"
+      ]
+    },
+    "status": "openToOffers"
   }
 }
