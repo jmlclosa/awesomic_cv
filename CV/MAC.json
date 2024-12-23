@@ -1,34 +1,34 @@
 {
-  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
   "settings": {
-    "language": "ES",
-    "MACVersion": "0.3"
+    "language": "EN",
+    "MACVersion": "0.5"
   },
   "aboutMe": {
     "profile": {
       "name": "Juan Manuel",
       "surnames": "López Closa",
-      "title": "",
-      "description": "",
+      "title": "%%HEADLINE%%",
+      "description": "He mejorado el departamento de desarrollo de la empresa para la que llevo trabajando 11 años, pasando de procesos con apenas buenas prácticas a implementar la mayoría de éstas (clean code, DDD,  CI & CD, testing, eventos, microservicios, ...) con una formación activa tanto personal como del resto del equipo e investigando nuevas tecnologías para ir aplicando tanto en nuevos proyectos como los mantenidos.\n\nEmpecé como el único programador y ahora soy el responsable del equipo (7 internos) y de los proyectos que se externalizan. Mantengo reuniones periódicas con negocio, con el responsable de Sistemas/Operaciones y con el Jefe del departamento IT para ir revisando la priorización y planificación de los distintos proyectos que llevamos.\n\nQuiero seguir creciendo con nuevos retos, conocer más puntos de vista y seguir pasándolo bien en mi trabajo. \n\nAdemás de mi trabajo principal mantengo el blog de mi mujer, hecho en Wordpress y siguiendo todas las buenas prácticas que se pueden aplicar (child-themes, hooks, desarrollos personalizados en plugins, ...) y aplicando lo que voy aprendiendo de CSS y JS \"moderno\".",
       "avatar": {
-        "alt": "foto_perfil_2.jpg",
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/6cf73407-0d08-45f3-ace6-02fab5d9e98f_foto_perfil_2.jpg"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/6cf73407-0d08-45f3-ace6-02fab5d9e98f_foto_perfil_2.jpg",
+        "alt": "foto_perfil_2.jpg"
       },
       "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJV8caxlmSlxIRxljQwwZUDcQ)",
         "country": "España",
         "region": "Islas Baleares",
-        "municipality": "Palma",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "Palma"
       }
     },
     "relevantLinks": [
       {
-        "type": "twitter",
-        "URL": "https://twitter.com/jml_closa"
-      },
-      {
         "type": "linkedin",
         "URL": "https://www.linkedin.com/in/juanmalopez/"
+      },
+      {
+        "type": "twitter",
+        "URL": "https://twitter.com/jml_closa"
       }
     ]
   },
@@ -73,15 +73,15 @@
                 "type": "technology"
               },
               {
-                "name": "JAVA",
-                "type": "technology"
-              },
-              {
                 "name": "JBoss",
                 "type": "technology"
               },
               {
                 "name": "JSF",
+                "type": "technology"
+              },
+              {
+                "name": "Java",
                 "type": "technology"
               },
               {
@@ -160,15 +160,15 @@
                 "type": "technology"
               },
               {
-                "name": "JAVA",
-                "type": "technology"
-              },
-              {
                 "name": "JBoss",
                 "type": "technology"
               },
               {
                 "name": "JSF",
+                "type": "technology"
+              },
+              {
+                "name": "Java",
                 "type": "technology"
               },
               {
@@ -235,11 +235,11 @@
                 "type": "technology"
               },
               {
-                "name": "JAVA",
+                "name": "JBoss",
                 "type": "technology"
               },
               {
-                "name": "JBoss",
+                "name": "Java",
                 "type": "technology"
               },
               {
@@ -251,7 +251,7 @@
                 "type": "technology"
               },
               {
-                "name": "LifeRay",
+                "name": "Liferay",
                 "type": "technology"
               },
               {
@@ -268,8 +268,7 @@
       },
       {
         "organization": {
-          "name": "SM2 Baleares",
-          "URL": ""
+          "name": "SM2 Baleares"
         },
         "roles": [
           {
@@ -303,11 +302,11 @@
                 "type": "technology"
               },
               {
-                "name": "JAVA",
+                "name": "JBoss",
                 "type": "technology"
               },
               {
-                "name": "JBoss",
+                "name": "Java",
                 "type": "technology"
               },
               {
@@ -315,7 +314,7 @@
                 "type": "technology"
               },
               {
-                "name": "LifeRay",
+                "name": "Liferay",
                 "type": "technology"
               },
               {
@@ -354,11 +353,11 @@
                 "type": "technology"
               },
               {
-                "name": "JAVA",
+                "name": "JBoss",
                 "type": "technology"
               },
               {
-                "name": "JBoss",
+                "name": "Java",
                 "type": "technology"
               }
             ]
@@ -424,60 +423,20 @@
   "knowledge": {
     "languages": [
       {
-        "name": "Catalan",
+        "name": "CA",
+        "fullName": "Catalán / Valenciano",
         "level": "Limited working proficiency"
       },
       {
-        "name": "Spanish",
+        "name": "ES",
+        "fullName": "Español",
         "level": "Limited working proficiency"
       }
     ],
     "hardSkills": [
       {
         "skill": {
-          "name": "JAVA",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Quarkus",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Primefaces",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "REST",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Keycloak",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Jenkins",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Bitbucket",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Jira",
           "type": "technology"
         }
       },
@@ -495,7 +454,7 @@
       },
       {
         "skill": {
-          "name": "OpenApi",
+          "name": "Java",
           "type": "technology"
         }
       },
@@ -504,51 +463,112 @@
           "name": "JavaFX",
           "type": "technology"
         }
+      },
+      {
+        "skill": {
+          "name": "Jenkins",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Jira",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Keycloak",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "OpenApi",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Primefaces",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Quarkus",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "REST",
+          "type": "technology"
+        }
       }
     ],
     "studies": [
       {
-        "studyType": "unaccredited",
+        "studyType": "officialDegree",
         "degreeAchieved": true,
-        "name": "Quarkus",
-        "startDate": "2019-06-01",
-        "finishDate": "2019-06-01",
+        "name": "Computer Engineering",
+        "startDate": "2010-09-01",
         "institution": {
-          "name": "Alex Soto via OpenWebinars",
-          "description": "Aprender a usar Quarkus para poder realizar aplicaciones Java Cloud-Native, preparadas para funcionar dentro de contenedores y preparadas para funcionar tanto dentro de arquitecturas microservicios como en serverless."
-        }
+          "name": "Universitat Oberta de Catalunya (UOC)",
+          "description": "Ingeniería informática\n\nHonorable mention in Final Project: Development of framework for the presentation layer in J2EE applications"
+        },
+        "finishDate": "2010-09-01"
       },
       {
         "studyType": "unaccredited",
         "degreeAchieved": true,
         "name": "Preliminary English Test (PET) - B1",
         "startDate": "2013-07-01",
-        "finishDate": "2013-07-01",
         "institution": {
-          "name": "Cambridge ESOL",
-          "description": ""
-        }
+          "name": "Cambridge ESOL"
+        },
+        "finishDate": "2013-07-01"
       },
       {
-        "studyType": "officialDegree",
+        "studyType": "unaccredited",
         "degreeAchieved": true,
-        "name": "Computer Engineering",
-        "startDate": "2010-09-01",
-        "finishDate": "2010-09-01",
+        "name": "Quarkus",
+        "startDate": "2019-06-01",
         "institution": {
-          "name": "Universitat Oberta de Catalunya (UOC)",
-          "description": "Ingeniería informática\n\nHonorable mention in Final Project: Development of framework for the presentation layer in J2EE applications"
-        }
+          "name": "Alex Soto via OpenWebinars",
+          "description": "Aprender a usar Quarkus para poder realizar aplicaciones Java Cloud-Native, preparadas para funcionar dentro de contenedores y preparadas para funcionar tanto dentro de arquitecturas microservicios como en serverless."
+        },
+        "finishDate": "2019-06-01"
       },
       {
         "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "Technical Computer Engineering",
         "startDate": "2004-09-01",
-        "finishDate": "2010-09-01",
         "institution": {
           "name": "Universitat de les Illes Balears",
           "description": "Ingeniería Técnica en Informática de Gestión"
+        },
+        "finishDate": "2010-09-01"
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Continuous learning",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Mentoring ability",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Strategic vision",
+          "type": "practice"
         }
       }
     ]
@@ -557,8 +577,12 @@
     "contact": {
       "publicProfiles": [
         {
-          "type": "linkedin",
-          "URL": "https://www.linkedin.com/in/juanmalopez/"
+          "URL": "https://www.linkedin.com/in/juanmalopez/",
+          "type": "linkedin"
+        },
+        {
+          "URL": "https://twitter.com/jml_closa",
+          "type": "twitter"
         }
       ]
     },
@@ -572,5 +596,14 @@
       ]
     },
     "status": "openToOffers"
+  },
+  "manfredSpecificData": {
+    "desiredJobDescription": "Donde se valore las buenas prácticas, se premie la colaboración en el código y la mejora continua. \nTambién me gustaría participar en las decisiones de producto hablando con negocio, así como ayudar al equipo a conseguir un producto para estar orgulloso.\nMe gustaría seguir programando en Java (Jakarta EE, Quarkus, Spring, ...) y seguir tocando algo de front, aunque tenga que aprender algún framework JS.\nPor supuesto me encantaría un proyecto en Cloud (AWS, GCP, ...)\n",
+    "goodPractices": "DDD, SOLID, Hexagonal Architecture, Testing",
+    "projects": [
+      {
+        "name": "Antojo en tu cocina Wordpress Site"
+      }
+    ]
   }
 }
