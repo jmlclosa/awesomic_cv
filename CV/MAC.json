@@ -623,6 +623,14 @@
           "type": "technology"
         },
         {
+          "name": "Jenkins",
+          "type": "technology"
+        },
+        {
+          "name": "Quarkus",
+          "type": "technology"
+        },
+        {
           "name": "Spring",
           "type": "technology"
         },
