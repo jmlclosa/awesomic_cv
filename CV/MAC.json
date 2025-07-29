@@ -647,6 +647,10 @@
           "type": "technology"
         },
         {
+          "name": "React",
+          "type": "technology"
+        },
+        {
           "name": "SonarQube",
           "type": "technology"
         },
