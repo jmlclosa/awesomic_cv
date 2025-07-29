@@ -627,6 +627,10 @@
           "type": "technology"
         },
         {
+          "name": "Confluence",
+          "type": "technology"
+        },
+        {
           "name": "Debian",
           "type": "technology"
         },
