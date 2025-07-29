@@ -433,6 +433,11 @@
       {
         "name": "CA",
         "fullName": "Catalán / Valenciano",
+        "level": "Native or bilingual proficiency"
+      },
+      {
+        "name": "EN",
+        "fullName": "Inglés",
         "level": "Limited working proficiency"
       },
       {
