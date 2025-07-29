@@ -638,7 +638,7 @@
         "type": "technology"
       }
     ],
-    "desiredJobDescription": "Donde se valore las buenas prácticas, se premie la colaboración en el código y la mejora continua. \nTambién me gustaría participar en las decisiones de producto hablando con negocio, así como ayudar al equipo a conseguir un producto para estar orgulloso.\nMe gustaría seguir programando en Java (Jakarta EE, Quarkus, Spring, ...) y seguir tocando algo de front, aunque tenga que aprender algún framework JS.\nPor supuesto me encantaría un proyecto en Cloud (AWS, GCP, ...)\n",
+    "desiredJobDescription": "Donde se valore las buenas prácticas, se premie la colaboración en el código y la mejora continua. \nTambién me gustaría participar en las decisiones de producto hablando con negocio, así como ayudar al equipo a conseguir un producto para estar orgulloso.\nMe gustaría seguir programando en Java (Jakarta EE, Quarkus, Spring, ...) y seguir tocando algo de front, aunque tenga que aprender algún framework JS.\nPor supuesto me encantaría un proyecto en Cloud (AWS, GCP, ...)\nNo tengo problema en trabajar con código legacy, siempre y cuando pueda mejorarlo o plantear migraciones.",
     "goodPractices": "DDD, SOLID, Hexagonal Architecture, Testing",
     "projects": [
       {
