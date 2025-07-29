@@ -607,7 +607,15 @@
     "preferences": {
       "preferredCompetences": [
         {
+          "name": "J2EE",
+          "type": "technology"
+        },
+        {
           "name": "Java",
+          "type": "technology"
+        },
+        {
+          "name": "JavaFX",
           "type": "technology"
         }
       ],
