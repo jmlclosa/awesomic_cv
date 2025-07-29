@@ -671,6 +671,10 @@
           "type": "technology"
         },
         {
+          "name": "Linux",
+          "type": "technology"
+        },
+        {
           "name": "Quarkus",
           "type": "technology"
         },
