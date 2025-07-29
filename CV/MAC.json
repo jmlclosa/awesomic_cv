@@ -647,6 +647,10 @@
           "type": "technology"
         },
         {
+          "name": "Github Actions",
+          "type": "technology"
+        },
+        {
           "name": "J2EE",
           "type": "technology"
         },
