@@ -611,6 +611,10 @@
           "type": "technology"
         },
         {
+          "name": "EJB",
+          "type": "technology"
+        },
+        {
           "name": "J2EE",
           "type": "technology"
         },
