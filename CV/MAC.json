@@ -607,6 +607,10 @@
     "preferences": {
       "preferredCompetences": [
         {
+          "name": "AWS",
+          "type": "technology"
+        },
+        {
           "name": "Artifactory",
           "type": "technology"
         },
