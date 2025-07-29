@@ -663,6 +663,10 @@
           "type": "technology"
         },
         {
+          "name": "Google Cloud",
+          "type": "technology"
+        },
+        {
           "name": "J2EE",
           "type": "technology"
         },
