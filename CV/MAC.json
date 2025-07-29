@@ -607,6 +607,10 @@
     "preferences": {
       "preferredCompetences": [
         {
+          "name": "Artifactory",
+          "type": "technology"
+        },
+        {
           "name": "J2EE",
           "type": "technology"
         },
