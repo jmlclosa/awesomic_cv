@@ -615,6 +615,10 @@
           "type": "technology"
         },
         {
+          "name": "Claude Code",
+          "type": "technology"
+        },
+        {
           "name": "Docker",
           "type": "technology"
         },
@@ -624,6 +628,10 @@
         },
         {
           "name": "Express",
+          "type": "technology"
+        },
+        {
+          "name": "GitHub Copilot",
           "type": "technology"
         },
         {
