@@ -546,6 +546,51 @@
         "finishDate": "2010-09-01"
       },
       {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "IA para developers (AI4Devs)",
+        "startDate": "2024-12-01",
+        "institution": {
+          "name": "LIDR",
+          "description": "Programa especializado en IA para desarrolladores cubriendo todo el ciclo de vida del Software: Prompt engineering, Testing with AI, User Stores with AI, Backend,Frontend & DevOps with AI; Effective meetings with AI, Cursor IDE, ...",
+          "URL": "https://lidr.simplecert.net/api/get-certificate?r=6894230&t=1e9fbe5120ff0ba715180b850c762e92c751c0f60e30ea5cb8737dd08acd39fe"
+        },
+        "linkedCompetences": [
+          {
+            "name": "AWS",
+            "type": "technology"
+          },
+          {
+            "name": "ChatGPT",
+            "type": "technology"
+          },
+          {
+            "name": "Claude Code",
+            "type": "technology"
+          },
+          {
+            "name": "Cursor",
+            "type": "technology"
+          },
+          {
+            "name": "Jest",
+            "type": "technology"
+          },
+          {
+            "name": "React",
+            "type": "technology"
+          },
+          {
+            "name": "Terraform",
+            "type": "technology"
+          },
+          {
+            "name": "TypeScript",
+            "type": "technology"
+          }
+        ]
+      },
+      {
         "studyType": "unaccredited",
         "degreeAchieved": true,
         "name": "Preliminary English Test (PET) - B1",
