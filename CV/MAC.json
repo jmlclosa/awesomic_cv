@@ -456,6 +456,18 @@
       },
       {
         "skill": {
+          "name": "Cursor",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "GitHub Copilot",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "J2EE",
           "type": "technology"
         }
@@ -748,7 +760,7 @@
   "manfredSpecificData": {
     "mainStackTechs": [
       {
-        "name": "J2EE",
+        "name": "Cursor",
         "type": "technology"
       },
       {
@@ -760,7 +772,7 @@
         "type": "technology"
       },
       {
-        "name": "Primefaces",
+        "name": "Quarkus",
         "type": "technology"
       },
       {
